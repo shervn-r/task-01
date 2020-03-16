@@ -1,4 +1,4 @@
-# Task 2 - Shilling-Detection
+# Task ۱ - Shilling-Detection
 -----
 
 ### How to Run?
